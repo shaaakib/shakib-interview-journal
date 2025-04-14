@@ -9,9 +9,9 @@ This repo showcases my journey through solving hundreds of problems from competi
 
 | Platform     | Problems Solved | Progress Bar           | Percentage |
 |--------------|------------------|-------------------------|------------|
-| 🔵 Codeforces | 404 / 1000        | ███████████████░░░░░░░   | 40.4%      |
-| 🟢 LeetCode   | 27 / 500          | █████░░░░░░░░░░░░░░░░    | 5.4%       |
-| 🟣 VJudge     | 11 / 500          | ███░░░░░░░░░░░░░░░░░░    | 2.2%       |
+| 🔵 Codeforces | 404 / 500       | ███████████████░░░░░░░   | 80.8%      |
+| 🟢 LeetCode   | 27 / 100          | █████░░░░░░░░░░░░░░░░    | 27%       |
+| 🟣 VJudge     | 11 / 100         | ███░░░░░░░░░░░░░░░░░░    | 11%       |
 | 🔴 AtCoder    | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%         |
 | 🟠 CodeChef   | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%         |
 | 📒 Notes      | 0 / 50 topics     | █░░░░░░░░░░░░░░░░░░░     | 0%         |
@@ -48,7 +48,7 @@ This repo showcases my journey through solving hundreds of problems from competi
 
 ## 📌 Goals
 
-- Solve 2000+ problems across different platforms  
+- Solve 900+ problems across different platforms  
 - Master key DSA & system design patterns  
 - Crack interviews at top tech companies  
 
