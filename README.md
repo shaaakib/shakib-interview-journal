@@ -1,6 +1,22 @@
 # Big Tech Interview Preparation 🚀
 
-This repository contains my personal preparation for coding interviews at companies like Google, Amazon, Microsoft, and more.
+Welcome to my 📘 personal preparation repository for landing a job at a Big Tech company.  
+Here you'll find my journey through solving hundreds of problems from platforms like **LeetCode**, **Codeforces**, and **AtCoder** — plus my personal notes on DSA and System Design. 💼💡
+
+---
+
+## 📊 Progress Chart
+
+| Platform     | Problems Solved | Progress |
+|--------------|------------------|----------|
+| 🟢 LeetCode   | 27 / 500       | █████░░░░░░░░░░ 10% |
+| 🔵 Codeforces | 404 / 1000        | ██████░░░░░░░░ 51% |
+| 🔴 AtCoder    | 10 / 100         | ██░░░░░░░░░░░░ 10% |
+| 📒 Notes      | 0 / 50 topics    | █░░░░░░░░░░░░ 10% |
+
+> ⏳ *Progress bar updates weekly based on solved problems.*
+
+---
 
 ## 💡 Topics Covered:
 - Data Structures & Algorithms

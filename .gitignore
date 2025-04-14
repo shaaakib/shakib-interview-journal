@@ -1,0 +1,24 @@
+# C++ ignores
+*.o
+*.obj
+*.exe
+*.out
+*.gch
+*.dll
+*.so
+
+# C# ignores
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+.idea/
+
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+venv/
+env/
