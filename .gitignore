@@ -14,11 +14,3 @@
 .vscode/
 .idea/
 
-# Python ignores
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.python-version
-venv/
-env/

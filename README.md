@@ -31,7 +31,7 @@ This repo showcases my journey through solving hundreds of problems from competi
 
 ## 🛠 Tech Stack & Tools
 
-- **Languages:** C#, C++, Python  
+- **Languages:** C#, C++ 
 - **Tools:** VS Code, .NET Core, Git & GitHub  
 - **Practicing Platforms:** LeetCode, Codeforces, AtCoder, VJudge, CodeChef
 
