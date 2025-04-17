@@ -12,10 +12,15 @@ This repo showcases my journey through solving hundreds of problems from competi
 | 🔵 Codeforces    | 405 / 500         | ███████████████░░░░░░░   | 81%       |
 | 🟢 LeetCode      | 27 / 100          | █████░░░░░░░░░░░░░░░░    | 27%       |
 | 🟡 Coding Ninjas | 21 / 100          | ████░░░░░░░░░░░░░░░░     | 21%       |
+| 💻 GeeksforGeeks | 15 / 100          | ███░░░░░░░░░░░░░░░░░░    | 15%       |
 | 🟣 VJudge        | 11 / 100          | ███░░░░░░░░░░░░░░░░░░    | 11%       |
 | 🔴 AtCoder       | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%        |
 | 🟠 CodeChef      | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%        |
 | 📒 Notes         | 0 / 50 topics     | █░░░░░░░░░░░░░░░░░░░     | 0%        |
+
+---
+
+### **Total Problems Solved: 480 / 1500 (32%)**
 
 ---
 
@@ -46,6 +51,7 @@ This repo showcases my journey through solving hundreds of problems from competi
 - [VJudge](https://vjudge.net/user/shaakib)
 - [Coding Ninjas](https://www.naukri.com/code360/profile/notsk)
 - [AtCoder](https://atcoder.jp/users/shaakib)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shakib/)
 
 ---
 
