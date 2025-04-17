@@ -7,14 +7,15 @@ This repo showcases my journey through solving hundreds of problems from competi
 
 ## 📊 Progress Overview (Updated Weekly)
 
-| Platform     | Problems Solved | Progress Bar           | Percentage |
-|--------------|------------------|-------------------------|------------|
-| 🔵 Codeforces | 404 / 500       | ███████████████░░░░░░░   | 80.8%      |
-| 🟢 LeetCode   | 27 / 100          | █████░░░░░░░░░░░░░░░░    | 27%       |
-| 🟣 VJudge     | 11 / 100         | ███░░░░░░░░░░░░░░░░░░    | 11%       |
-| 🔴 AtCoder    | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%         |
-| 🟠 CodeChef   | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%         |
-| 📒 Notes      | 0 / 50 topics     | █░░░░░░░░░░░░░░░░░░░     | 0%         |
+| Platform     | Problems Solved   | Progress Bar           | Percentage |
+|------------------|--------------------|--------------------------|-----------|
+| 🔵 Codeforces    | 405 / 500         | ███████████████░░░░░░░   | 81%       |
+| 🟢 LeetCode      | 27 / 100          | █████░░░░░░░░░░░░░░░░    | 27%       |
+| 🟡 Coding Ninjas | 21 / 100          | ████░░░░░░░░░░░░░░░░     | 21%       |
+| 🟣 VJudge        | 11 / 100          | ███░░░░░░░░░░░░░░░░░░    | 11%       |
+| 🔴 AtCoder       | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%        |
+| 🟠 CodeChef      | 5 / 100           | ██░░░░░░░░░░░░░░░░░░     | 5%        |
+| 📒 Notes         | 0 / 50 topics     | █░░░░░░░░░░░░░░░░░░░     | 0%        |
 
 ---
 
@@ -31,7 +32,7 @@ This repo showcases my journey through solving hundreds of problems from competi
 
 ## 🛠 Tech Stack & Tools
 
-- **Languages:** C#, C/C++ 
+- **Languages:** C/C++, C#
 - **Tools:** VS Code, .NET Core, Git & GitHub  
 - **Practicing Platforms:** LeetCode, Codeforces, AtCoder, VJudge, CodeChef
 
@@ -43,12 +44,14 @@ This repo showcases my journey through solving hundreds of problems from competi
 - [LeetCode](https://leetcode.com/u/shaakib/)
 - [CodeChef](https://www.codechef.com/users/shaakib)
 - [VJudge](https://vjudge.net/user/shaakib)
+- [Coding Ninjas](https://www.naukri.com/code360/profile/notsk)
+- [AtCoder](https://atcoder.jp/users/shaakib)
 
 ---
 
 ## 📌 Goals
 
-- Solve 900+ problems across different platforms  
+- Solve 1500+ problems across different platforms  
 - Master key DSA & system design patterns  
 - Crack interviews at top tech companies  
 
